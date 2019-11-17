@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba2152b4-6d16-4e00-8c42-f2b5d77b24bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FlaskBlog/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlaskBlog/router.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlaskBlog/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/FlaskBlog/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/FlaskBlog/forms.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,23 +30,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/FlaskBlog/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
+            <state>
+              <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FlaskBlog/router.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="285">
+              <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
               <folding>
                 <element signature="e#0#64#0" expanded="true" />
               </folding>
@@ -360,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573958706015</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Change the structure">
+      <created>1573960376209</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573960376209</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -388,7 +386,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create the package" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create the package" />
+    <MESSAGE value="Change the structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change the structure" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../python/Lib/site-packages/wtforms/fields/core.py">
@@ -480,16 +479,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FlaskBlog/router.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#0#64#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/FlaskBlog/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -509,10 +498,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FlaskBlog/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state>
+          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FlaskBlog/router.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
           <folding>
-            <element signature="e#0#23#0" expanded="true" />
+            <element signature="e#0#64#0" expanded="true" />
           </folding>
         </state>
       </provider>
